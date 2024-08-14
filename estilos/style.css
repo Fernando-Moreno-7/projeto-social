@@ -8,11 +8,13 @@ html, body{
     height: 100vh;
     width: 100vw;
     background-color: black;
+    
 }
 main{
     height: 100vh;
     position: relative;
-    background-color: chartreuse;
+    background-image: url('../imagens/pexels-fwstudio-33348-164005.jpg');
+
 }
 section#telefone{
     position: absolute;
@@ -23,6 +25,7 @@ section#telefone{
     height: 293px;
     width: 229px;
    
-    background: blue url("../imagens/istockphoto-1377411420-612x612-removebg-preview.png" );
+    background: url("../imagens/smartphone-de-cor-branca-com-protetor-de-tela-de-toque-em-branco-isolado-no-fundo-branco-de-telefone-celular-realista-e-detalhado_175654-396.avif" );
     background-repeat: no-repeat;
+    background-position: left center;
 }
