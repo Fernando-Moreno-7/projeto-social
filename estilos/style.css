@@ -20,8 +20,9 @@ section#telefone{
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 500px;
-    width: 500px;
-    background-color: blue;
-    background-image: url("../imagens/");
+    height: 293px;
+    width: 229px;
+   
+    background: blue url("../imagens/istockphoto-1377411420-612x612-removebg-preview.png" );
+    background-repeat: no-repeat;
 }
