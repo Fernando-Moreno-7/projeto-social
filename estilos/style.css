@@ -10,10 +10,16 @@ html, body{
     background-color: black;
     
 }
+body{
+    background-image: url('../imagens/pexels-fwstudio-33348-164005.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+
+}
 main{
     height: 100vh;
     position: relative;
-    background-image: url('../imagens/pexels-fwstudio-33348-164005.jpg');
+   
 
 }
 section#telefone{
@@ -22,11 +28,17 @@ section#telefone{
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 293px;
-    width: 229px;
+    height: 300px;
+    width: 300px;
    
-    background: url("../imagens/vetor-de-gradiente-de-logotipo-colorido-de-passaro_343694-1365.avif" );
+    background: url('../imagens/celular1-removebg-preview.png' );
     background-repeat: no-repeat;
-    background-position: center center;
     
+}
+iframe#tela{
+    position: relative;
+    top: 30px;
+    left: 93px;
+    width: 115px;
+    height: 227px;
 }
